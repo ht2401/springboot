@@ -18,7 +18,7 @@ import java.util.Optional;
 import static athena.com.spring.repository.StudentRepository.students;
 
 @RestController
-@RequestMapping("hello")
+@RequestMapping("demo")
 public class AthenaController {
 
     @Autowired
